@@ -19,3 +19,4 @@ Gemfile.lock
 
 # ignore the folder name dataFolders
 dataFolders/
+**/.ipynb_checkpoints/
